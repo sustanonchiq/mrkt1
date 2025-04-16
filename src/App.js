@@ -22,14 +22,14 @@ function App() {
 						Пригласить (0)
 					</button>
 					<button className='button'>
-						<img width={30} src={CopyImg} alt='copy' />
+						<img width={25} src={CopyImg} alt='copy' />
 					</button>
 				</div>
 				<h3>Только друзья с подключенными кошельками</h3>
 			</div>
 			<div className='connect'>
 				<button className='button'>
-					<img width={30} src={WalletImg} alt='wallet' />
+					<img width={25} src={WalletImg} alt='wallet' />
 					Подключить кошелек
 				</button>
 				<h3>Подключите кошелек и получите ранние бонусы</h3>
