@@ -8,7 +8,7 @@ body {
 
 h3 {
   color: #646464;
-  font-size: 12px;
+  font-size: 11px;
   font-weight: 400;
 }
 
@@ -32,7 +32,7 @@ h3 {
   border: none;
   border-radius: 8px;
   padding: 6px;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 600;
 
 }
@@ -65,6 +65,6 @@ h3 {
 
 h1 {
   color: white;
-  font-size: 16px;
+  font-size: 14px;
   padding: 20px 0;
 }
